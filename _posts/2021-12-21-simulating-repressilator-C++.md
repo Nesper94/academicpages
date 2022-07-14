@@ -22,7 +22,7 @@ todos ellos represores de la expresión genética. Cada gen produce una
 proteína que reprime al siguiente gen como se muestra en la siguiente imagen:
 
 <center>
-<img src="/images/repressilator.png" alt="Represilador" width="400">
+<img src="/academicpages/images/repressilator.png" alt="Represilador" width="400">
 </center>
 
 # Código fuente
