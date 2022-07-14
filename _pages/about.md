@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><img src="/images/photo.png" alt="My photo" align="left"> I am a
+<p><img style="margin-right: 1em" src="https://nesper94.github.io/images/photo.png" alt="My photo" align="left"> I am a
 graduate student currently working in the <a target="_blank"
 href="https://fenfisdi.home.blog/">Grupo de Fundamentos y Enseñanza
 de la Física y los Sistemas Dinámicos</a> at the <a target="_blank"
