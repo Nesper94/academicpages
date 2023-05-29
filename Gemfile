@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-target-blank'
 end
+
+gem "webrick", "~> 1.8"
