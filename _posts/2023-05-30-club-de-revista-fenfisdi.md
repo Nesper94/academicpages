@@ -18,7 +18,7 @@ FEnFiSDi para el año 2023:
 
 | Fecha | Expositor | Artículo | DOI | Línea de investigación |
 | :-:   | :-:       | :-:      | :-: | :-:                    |
-| Julio 21 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte II) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
+| Julio 28 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte II) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
 | Junio 9 | Maria de los Ángeles | Embryonic loss of human females with partial trisomy 19 identifies region critical for the single active X | <https://doi.org/10.1371/journal.pone.0170403> | Epigenética |
 | Junio 2 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte I) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
 | Mayo 26 | Juan C. Arboleda | ¿Qué es la masa? | <https://nesper94.github.io/academicpages/posts/2021/12/physics-unification/> | Física |
