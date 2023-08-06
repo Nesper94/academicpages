@@ -18,8 +18,8 @@ FEnFiSDi para el año 2023:
 
 | Fecha | Expositor | Artículo | DOI | Línea de investigación |
 | :-:   | :-:       | :-:      | :-: | :-:                    |
-| Agosto 15 | María de los Ángeles Benavides | Silencing XIST on the future active X: Searching human and bovine preimplantation embryos for the repressor | https://doi.org/10.1038/s41431-022-01115-9 | Epigenética |
-| Agosto 8 | Juan Camilo Arboleda | Abnormal X : autosome ratio, but normal X chromosome inactivation in human triploid cultures | https://doi.org/10.1186/1471-2156-7-41 | Epigenética |
+| Agosto 15 | María de los Ángeles Benavides | Silencing XIST on the future active X: Searching human and bovine preimplantation embryos for the repressor | <https://doi.org/10.1038/s41431-022-01115-9> | Epigenética |
+| Agosto 8 | Juan Camilo Arboleda | Abnormal X : autosome ratio, but normal X chromosome inactivation in human triploid cultures | <https://doi.org/10.1186/1471-2156-7-41> | Epigenética |
 | Julio 28 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte II) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
 | Junio 9 | Maria de los Ángeles | Embryonic loss of human females with partial trisomy 19 identifies region critical for the single active X | <https://doi.org/10.1371/journal.pone.0170403> | Epigenética |
 | Junio 2 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte I) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
