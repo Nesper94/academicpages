@@ -10,8 +10,8 @@ tags:
 Te invitamos a participar en nuestro club de revista para que hablemos sobre
 las últimas investigaciones y avances de la ciencia.
 
-**Horario:** Viernes de 1 a 2 pm  
-**Lugar:** Salón 7-305, Instituto de Biología, Universidad de Antioquia
+**Horario:** Martes de 1 a 2 pm  
+**Lugar:** Salón 7-209, Instituto de Biología, Universidad de Antioquia
 
 La siguiente es la programación del club de revista
 FEnFiSDi para el año 2023:
