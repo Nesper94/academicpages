@@ -19,6 +19,7 @@ FEnFiSDi para el año 2023:
 | Fecha | Expositor | Artículo | DOI | Línea de investigación |
 | :-:   | :-:       | :-:      | :-: | :-:                    |
 | Septiembre 5 | Juan Camilo Arboleda Rivera | The region 3' to Xist mediates X chromosome counting and H3 Lys-4 dimethylation within the Xist gene | <https://doi.org/10.1038/sj.emboj.7600071> | Epigenética |
+| Agosto 29 | Emmanuel Ortega | The origin of the central dogma through conflicting multilevel selection | <https://doi.org/10.1098/rspb.2019.1359> | Biología teórica |
 | Agosto 22 | María de los Ángeles Benavides | Silencing XIST on the future active X: Searching human and bovine preimplantation embryos for the repressor | <https://doi.org/10.1038/s41431-022-01115-9> | Epigenética |
 | Agosto 15 | Juan Camilo Arboleda | Abnormal X : autosome ratio, but normal X chromosome inactivation in human triploid cultures | <https://doi.org/10.1186/1471-2156-7-41> | Epigenética |
 | Julio 28 | Emmanuel Ortega | Ecological and evolutionary dynamics of cell-virus-virophage systems (Parte II) | <https://doi.org/10.1101/2023.02.07.527428> | Ecología molecular - Sistemas dinámicos |
