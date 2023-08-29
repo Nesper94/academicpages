@@ -7,6 +7,8 @@ tags:
   - Research 
 ---
 
+<meta http-equiv="Refresh" content="0; url=https://biologia-computacional.github.io/club-de-revista/" />
+
 Te invitamos a participar en nuestro club de revista para que hablemos sobre
 las últimas investigaciones y avances de la ciencia.
 
