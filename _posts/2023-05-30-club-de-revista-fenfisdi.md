@@ -7,8 +7,6 @@ tags:
   - Research 
 ---
 
-<meta http-equiv="Refresh" content="0; url=https://biologia-computacional.github.io/club-de-revista/" />
-
 Te invitamos a participar en nuestro club de revista para que hablemos sobre
 las últimas investigaciones y avances de la ciencia.
 
@@ -34,3 +32,5 @@ FEnFiSDi para el año 2023:
 | Abril 28 | Miguel Tangarife | CRISPR-Cas systems target endogenous genes to impact bacterial physiology and alter mammalian immune responses | <https://doi.org/10.1186/s43556-022-00084-1> | CRISPR |
 | Abril 19 | Juan C. Arboleda | Characterization of the self-targeting Type IV CRISPR interference system in Pseudomonas oleovorans | <https://doi.org/10.1038/s41564-022-01229-2> | CRISPR |
 | Abril 12 | Emmanuel Ortega | Viral replication modes in single-peak fitness landscapes: A dynamical systems analysis | <https://doi.org/10.1016/j.jtbi.2018.10.007> | Ecología molecular - Sistemas dinámicos |
+
+<meta http-equiv="Refresh" content="0; url=https://biologia-computacional.github.io/club-de-revista/" />
